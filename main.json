@@ -1,0 +1,502 @@
+[
+  {
+    "address": "Antalya-Kepez-Kütükçü",
+    "price": 17687,
+    "size": "105"
+  },
+  {
+    "address": "Antalya-Kepez-Ulus ",
+    "price": 29252,
+    "size": "115"
+  },
+  {
+    "address": "Antalya-Konyaaltı-Hurma ",
+    "price": 26021,
+    "size": "60"
+  },
+  {
+    "address": "Antalya-Alanya-Şekerhane",
+    "price": 53572,
+    "size": "150"
+  },
+  {
+    "address": "Antalya-Manavgat-Aydınevler",
+    "price": 46769,
+    "size": "115"
+  },
+  {
+    "address": "Antalya-Muratpaşa-Bahçelievler",
+    "price": 263609,
+    "size": "240"
+  },
+  {
+    "address": "Antalya-Kepez-Kültür",
+    "price": 37415,
+    "size": "80"
+  },
+  {
+    "address": "Antalya-Alanya-Oba ",
+    "price": 64627,
+    "size": "225"
+  },
+  {
+    "address": "Antalya-Alanya-Hacet ",
+    "price": 69729,
+    "size": "180"
+  },
+  {
+    "address": "Antalya-Kepez-Teomanpaşa",
+    "price": 14966,
+    "size": "75"
+  },
+  {
+    "address": "Antalya-Kepez-Varsak Karşıyaka",
+    "price": 22959,
+    "size": "115"
+  },
+  {
+    "address": "Antalya-Kepez-Hüsnü Karakaş",
+    "price": 28742,
+    "size": "114"
+  },
+  {
+    "address": "Antalya-Kepez-Hüsnü Karakaş",
+    "price": 17857,
+    "size": "60"
+  },
+  {
+    "address": "Antalya-Döşemealtı-Altınkale",
+    "price": 69729,
+    "size": "145"
+  },
+  {
+    "address": "Antalya-Kepez-Hüsnü Karakaş",
+    "price": 31973,
+    "size": "130"
+  },
+  {
+    "address": "Antalya-Muratpaşa-Yenigün",
+    "price": 38266,
+    "size": "145"
+  },
+  {
+    "address": "Antalya-Kepez-Hüsnü Karakaş",
+    "price": 25170,
+    "size": "147"
+  },
+  {
+    "address": "Antalya-Kumluca-Karşıyaka",
+    "price": 42518,
+    "size": "140"
+  },
+  {
+    "address": "Antalya-Alanya-Oba ",
+    "price": 50171,
+    "size": "120"
+  },
+  {
+    "address": "Antalya-Kepez-Gazi ",
+    "price": 35034,
+    "size": "60"
+  },
+  {
+    "address": "Antalya-Kepez-Teomanpaşa",
+    "price": 23640,
+    "size": "95"
+  },
+  {
+    "address": "Antalya-Manavgat-Ilıca",
+    "price": 34864,
+    "size": "125"
+  },
+  {
+    "address": "Antalya-Alanya-Mahmutlar ",
+    "price": 39116,
+    "size": "100"
+  },
+  {
+    "address": "Antalya-Kepez-Teomanpaşa",
+    "price": 24830,
+    "size": "90"
+  },
+  {
+    "address": "Antalya-Muratpaşa-Kızılarık",
+    "price": 23129,
+    "size": "110"
+  },
+  {
+    "address": "Antalya-Muratpaşa-Kızılarık",
+    "price": 56123,
+    "size": "150"
+  },
+  {
+    "address": "Antalya-Muratpaşa-Konuksever ",
+    "price": 27041,
+    "size": "100"
+  },
+  {
+    "address": "Antalya-Kepez-Varsak Menderes ",
+    "price": 23555,
+    "size": "125"
+  },
+  {
+    "address": "Antalya-Kepez-Hüsnü Karakaş",
+    "price": 42007,
+    "size": "122"
+  },
+  {
+    "address": "Antalya-Kepez-Kütükçü",
+    "price": 35545,
+    "size": "200"
+  },
+  {
+    "address": "Antalya-Konyaaltı-Hurma ",
+    "price": 30273,
+    "size": "95"
+  },
+  {
+    "address": "Antalya-Muratpaşa-Zerdalilik ",
+    "price": 125852,
+    "size": "186"
+  },
+  {
+    "address": "Antalya-Muratpaşa-Kızılarık",
+    "price": 22109,
+    "size": "90"
+  },
+  {
+    "address": "Antalya-Kepez-Ahatlı",
+    "price": 25170,
+    "size": "60"
+  },
+  {
+    "address": "Antalya-Konyaaltı-Molla Yusuf ",
+    "price": 54423,
+    "size": "150"
+  },
+  {
+    "address": "Antalya-Kepez-Kültür",
+    "price": 33844,
+    "size": "105"
+  },
+  {
+    "address": "Antalya-Kepez-Göksu",
+    "price": 67178,
+    "size": "170"
+  },
+  {
+    "address": "Antalya-Konyaaltı-Uncalı",
+    "price": 71430,
+    "size": "165"
+  },
+  {
+    "address": "Antalya-Konyaaltı-Uluç",
+    "price": 96090,
+    "size": "165"
+  },
+  {
+    "address": "Antalya-Alanya-Mahmutlar ",
+    "price": 54423,
+    "size": "110"
+  },
+  {
+    "address": "Antalya-Kepez-Çankaya",
+    "price": 44218,
+    "size": "150"
+  },
+  {
+    "address": "Antalya-Muratpaşa-Cumhuriyet ",
+    "price": 23640,
+    "size": "110"
+  },
+  {
+    "address": "Antalya-Alanya-Kadıpaşa",
+    "price": 39967,
+    "size": "105"
+  },
+  {
+    "address": "Antalya-Alanya-Mahmutlar ",
+    "price": 47620,
+    "size": "115"
+  },
+  {
+    "address": "Antalya-Muratpaşa-Etiler ",
+    "price": 28912,
+    "size": "115"
+  },
+  {
+    "address": "Antalya-Aksu-Kundu",
+    "price": 51021,
+    "size": "100"
+  },
+  {
+    "address": "Antalya-Muratpaşa-Kızılarık",
+    "price": 25502,
+    "size": "140"
+  },
+  {
+    "address": "Antalya-Kepez-Fevzi Çakmak",
+    "price": 22959,
+    "size": "95"
+  },
+  {
+    "address": "Antalya-Muratpaşa-Kızılarık",
+    "price": 31368,
+    "size": "120"
+  },
+  {
+    "address": "Antalya-Kepez-Fevzi Çakmak",
+    "price": 37245,
+    "size": "130"
+  },
+  {
+    "address": "Antalya-Kepez-Mehmet Akif Ersoy ",
+    "price": 31123,
+    "size": "110"
+  },
+  {
+    "address": "Antalya-Kepez-Emek ",
+    "price": 33164,
+    "size": "50"
+  },
+  {
+    "address": "Antalya-Döşemealtı-Yeniköy",
+    "price": 51871,
+    "size": "125"
+  },
+  {
+    "address": "Antalya-Muratpaşa-Kızılarık",
+    "price": 42943,
+    "size": "147"
+  },
+  {
+    "address": "Antalya-Döşemealtı-Bahçeyaka",
+    "price": 26786,
+    "size": "110"
+  },
+  {
+    "address": "Antalya-Muratpaşa-Tahılpazarı",
+    "price": 30613,
+    "size": "95"
+  },
+  {
+    "address": "Antalya-Kepez-Fevzi Çakmak",
+    "price": 42348,
+    "size": "140"
+  },
+  {
+    "address": "Antalya-Kepez-Kütükçü",
+    "price": 29422,
+    "size": "100"
+  },
+  {
+    "address": "Antalya-Muratpaşa-Kızılarık",
+    "price": 40817,
+    "size": "200"
+  },
+  {
+    "address": "Antalya-Muratpaşa-Üçgen",
+    "price": 51021,
+    "size": "90"
+  },
+  {
+    "address": "Antalya-Kepez-Varsak Karşıyaka",
+    "price": 26361,
+    "size": "110"
+  },
+  {
+    "address": "Antalya-Muratpaşa-Yenigün",
+    "price": 31378,
+    "size": "148"
+  },
+  {
+    "address": "Antalya-Manavgat-Ilıca",
+    "price": 56974,
+    "size": "260"
+  },
+  {
+    "address": "Antalya-Konyaaltı-Hurma ",
+    "price": 127553,
+    "size": "155"
+  },
+  {
+    "address": "Antalya-Konyaaltı-Pınarbaşı",
+    "price": 212588,
+    "size": "450"
+  },
+  {
+    "address": "Antalya-Döşemealtı-Altınkale",
+    "price": 153063,
+    "size": "350"
+  },
+  {
+    "address": "Antalya-Kepez-Atatürk",
+    "price": 26786,
+    "size": "100"
+  },
+  {
+    "address": "Antalya-Muratpaşa-Zerdalilik ",
+    "price": 130954,
+    "size": "151"
+  },
+  {
+    "address": "Antalya-Muratpaşa-Altındağ",
+    "price": 38266,
+    "size": "125"
+  },
+  {
+    "address": "Antalya-Kaş-Sarıbelen",
+    "price": 43368,
+    "size": "110"
+  },
+  {
+    "address": "Antalya-Manavgat-Aşağı Hisar",
+    "price": 55953,
+    "size": "145"
+  },
+  {
+    "address": "Antalya-Muratpaşa-Fener ",
+    "price": 64457,
+    "size": "180"
+  },
+  {
+    "address": "Antalya-Muratpaşa-Sedir ",
+    "price": 38946,
+    "size": "240"
+  },
+  {
+    "address": "Antalya-Kepez-Hüsnü Karakaş",
+    "price": 67858,
+    "size": "375"
+  },
+  {
+    "address": "Antalya-Muratpaşa-Cumhuriyet ",
+    "price": 31463,
+    "size": "100"
+  },
+  {
+    "address": "Antalya-Konyaaltı-Gürsu",
+    "price": 67178,
+    "size": "125"
+  },
+  {
+    "address": "Antalya-Kepez-Varsak Karşıyaka",
+    "price": 38351,
+    "size": "100"
+  },
+  {
+    "address": "Antalya-Kepez-Fevzi Çakmak",
+    "price": 40477,
+    "size": "135"
+  },
+  {
+    "address": "Antalya-Kepez-Gündoğdu",
+    "price": 18538,
+    "size": "80"
+  },
+  {
+    "address": "Antalya-Kepez-Çamlıbel",
+    "price": 41157,
+    "size": "210"
+  },
+  {
+    "address": "Antalya-Konyaaltı-Hurma ",
+    "price": 46769,
+    "size": "75"
+  },
+  {
+    "address": "Antalya-Kepez-Gündoğdu",
+    "price": 21259,
+    "size": "90"
+  },
+  {
+    "address": "Antalya-Konyaaltı-Siteler ",
+    "price": 142859,
+    "size": "150"
+  },
+  {
+    "address": "Antalya-Muratpaşa-Kızıltoprak",
+    "price": 54423,
+    "size": "240"
+  },
+  {
+    "address": "Antalya-Muratpaşa-Çağlayan",
+    "price": 61055,
+    "size": "200"
+  },
+  {
+    "address": "Antalya-Konyaaltı-Hurma ",
+    "price": 44728,
+    "size": "105"
+  },
+  {
+    "address": "Antalya-Muratpaşa-Kızılarık",
+    "price": 21505,
+    "size": "97"
+  },
+  {
+    "address": "Antalya-Manavgat-Sarılar",
+    "price": 29762,
+    "size": "120"
+  },
+  {
+    "address": "Antalya-Muratpaşa-Varlık",
+    "price": 34014,
+    "size": "120"
+  },
+  {
+    "address": "Antalya-Kepez-Kuzeyyaka ",
+    "price": 29252,
+    "size": "160"
+  },
+  {
+    "address": "Antalya-Kepez-Fabrikalar ",
+    "price": 39626,
+    "size": "170"
+  },
+  {
+    "address": "Antalya-Kepez-Varsak Karşıyaka",
+    "price": 24235,
+    "size": "100"
+  },
+  {
+    "address": "Antalya-Konyaaltı-Uncalı",
+    "price": 70579,
+    "size": "105"
+  },
+  {
+    "address": "Antalya-Muratpaşa-Konuksever ",
+    "price": 39966,
+    "size": "135"
+  },
+  {
+    "address": "Antalya-Kepez-Altınova Düden",
+    "price": 28912,
+    "size": "50"
+  },
+  {
+    "address": "Antalya-Kepez-Ahatlı",
+    "price": 29762,
+    "size": "90"
+  },
+  {
+    "address": "Antalya-Alanya-Konaklı",
+    "price": 57059,
+    "size": "130"
+  },
+  {
+    "address": "Antalya-Konyaaltı-Hurma ",
+    "price": 59525,
+    "size": "135"
+  },
+  {
+    "address": "Antalya-Alanya-Mahmutlar ",
+    "price": 45919,
+    "size": "110"
+  },
+  {
+    "address": "Antalya-Kepez-Mehmet Akif Ersoy ",
+    "price": 43368,
+    "size": "200"
+  }
+]
