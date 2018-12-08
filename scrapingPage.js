@@ -1,46 +1,62 @@
-const cheerio = require("cheerio");
-const rp = require("request-promise");
-const fs = require("fs");
+const cheerio = require('cheerio')
+const rp = require('request-promise')
+const fs = require('fs')
 
 const pages = [
-  "https://www.sahibinden.com/satilik/antalya",
-  "https://www.sahibinden.com/satilik/antalya?pagingOffset=20",
-  "https://www.sahibinden.com/satilik/antalya?pagingOffset=40",
-  "https://www.sahibinden.com/satilik/antalya?pagingOffset=60",
-  "https://www.sahibinden.com/satilik/antalya?pagingOffset=80"
-];
+  'https://www.sahibinden.com/satilik/antalya',
+  'https://www.sahibinden.com/satilik/antalya?pagingOffset=20',
+  'https://www.sahibinden.com/satilik/antalya?pagingOffset=40',
+  'https://www.sahibinden.com/satilik/antalya?pagingOffset=60',
+  'https://www.sahibinden.com/satilik/antalya?pagingOffset=80',
+  'https://www.sahibinden.com/satilik/antalya?pagingOffset=100',
+  'https://www.sahibinden.com/satilik/antalya?pagingOffset=120',
+  'https://www.sahibinden.com/satilik/antalya?pagingOffset=140',
+  'https://www.sahibinden.com/satilik/antalya?pagingOffset=160',
+  'https://www.sahibinden.com/satilik/antalya?pagingOffset=180',
+  'https://www.sahibinden.com/satilik/antalya?pagingOffset=200',
+  'https://www.sahibinden.com/satilik/antalya?pagingOffset=220',
+  'https://www.sahibinden.com/satilik/antalya?pagingOffset=240',
+  'https://www.sahibinden.com/satilik/antalya?pagingOffset=260',
+  'https://www.sahibinden.com/satilik/antalya?pagingOffset=280',
+  'https://www.sahibinden.com/satilik/antalya?pagingOffset=300',
+  'https://www.sahibinden.com/satilik/antalya?pagingOffset=320',
+  'https://www.sahibinden.com/satilik/antalya?pagingOffset=340',
+  'https://www.sahibinden.com/satilik/antalya?pagingOffset=360',
+  'https://www.sahibinden.com/satilik/antalya?pagingOffset=380',
+  'https://www.sahibinden.com/satilik/antalya?pagingOffset=400'
+]
 
-if (!fs.existsSync("housesUrls.json")) {
-  fs.appendFile("housesUrls.json", "[]", error => console.log(error));
+if (!fs.existsSync('housesUrls.json')) {
+  fs.appendFile('housesUrls.json', '[]', error => console.log(error))
 
-  let housesURLsArr = [];
-  const initURL = "https://www.sahibinden.com";
+  let housesURLsArr = []
+  const initURL = 'https://www.sahibinden.com'
 
   pages.forEach(url => {
     rp(url)
       .then(html => {
         const $ = cheerio.load(html, {
           xmlMode: true
-        });
-        $(".searchResultsTitleValue a.classifiedTitle").each(function(
+        })
+        $('.searchResultsTitleValue a.classifiedTitle').each(function (
           index,
           element
         ) {
-          let item = initURL + $(element).attr("href");
-          housesURLsArr.push(item);
-        });
+          let item = initURL + $(element).attr('href')
+          housesURLsArr.push(item)
+        })
         fs.writeFile(
-          "./housesUrls.json",
+          './housesUrls.json',
           JSON.stringify(housesURLsArr),
           error => {
-            if (error) console.log(error);
-            else console.log("Success");
+            if (error) console.log(error)
+            else console.log('Success')
           }
-        );
+        )
       })
-      .catch(err => console.log("error", err));
-  });
-} else console.log(error);
+      .catch(err => console.log('error', err))
+  })
+} else console.log(error)
 
 // function scrap() {
 //   request(
